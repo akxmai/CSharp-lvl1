@@ -1,0 +1,7 @@
+D:\Melting Pot\Coding\C#\HW1\HW1\bin\Debug\HW1.exe.config
+D:\Melting Pot\Coding\C#\HW1\HW1\bin\Debug\HW1.exe
+D:\Melting Pot\Coding\C#\HW1\HW1\bin\Debug\HW1.pdb
+D:\Melting Pot\Coding\C#\HW1\HW1\obj\Debug\Profile.csprojAssemblyReference.cache
+D:\Melting Pot\Coding\C#\HW1\HW1\obj\Debug\Profile.csproj.CoreCompileInputs.cache
+D:\Melting Pot\Coding\C#\HW1\HW1\obj\Debug\HW1.exe
+D:\Melting Pot\Coding\C#\HW1\HW1\obj\Debug\HW1.pdb
