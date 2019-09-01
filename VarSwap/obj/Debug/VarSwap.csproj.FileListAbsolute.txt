@@ -1,0 +1,7 @@
+D:\Melting Pot\Coding\C#\HW1\VarSwap\bin\Debug\VarSwap.exe.config
+D:\Melting Pot\Coding\C#\HW1\VarSwap\bin\Debug\VarSwap.exe
+D:\Melting Pot\Coding\C#\HW1\VarSwap\bin\Debug\VarSwap.pdb
+D:\Melting Pot\Coding\C#\HW1\VarSwap\obj\Debug\VarSwap.csprojAssemblyReference.cache
+D:\Melting Pot\Coding\C#\HW1\VarSwap\obj\Debug\VarSwap.csproj.CoreCompileInputs.cache
+D:\Melting Pot\Coding\C#\HW1\VarSwap\obj\Debug\VarSwap.exe
+D:\Melting Pot\Coding\C#\HW1\VarSwap\obj\Debug\VarSwap.pdb
